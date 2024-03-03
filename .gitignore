@@ -1,0 +1,111 @@
+# Project exclude paths
+/.gradle/
+/Simple Chat Bot (Kotlin)/task/build/
+/Simple Chat Bot (Kotlin)/task/out/
+/Simple Chat Bot (Kotlin)/task/out/production/classes/
+/Topics/Boolean type and operations. True and false/Invitations and gifts/out/
+/Topics/Boolean type and operations. True and false/Invitations and gifts/out/production/classes/
+/Topics/Boolean type and operations. True and false/Program a Boolean function/out/
+/Topics/Boolean type and operations. True and false/Program a Boolean function/out/production/classes/
+/Topics/Characters. Char type/Comparing numbers and characters/out/
+/Topics/Characters. Char type/Comparing numbers and characters/out/production/classes/
+/Topics/Characters. Char type/Digits or not/out/
+/Topics/Characters. Char type/Digits or not/out/production/classes/
+/Topics/Characters. Char type/Previous character/out/
+/Topics/Characters. Char type/Previous character/out/production/classes/
+/Topics/Characters. Char type/Sequence/out/
+/Topics/Characters. Char type/Sequence/out/production/classes/
+/Topics/Comparing numbers. Relational operators/Are the numbers different/out/
+/Topics/Comparing numbers. Relational operators/Are the numbers different/out/production/classes/
+/Topics/Comparing numbers. Relational operators/Boys in the sport class/out/
+/Topics/Comparing numbers. Relational operators/Boys in the sport class/out/production/classes/
+/Topics/Comparing numbers. Relational operators/Who is less than 10/out/
+/Topics/Comparing numbers. Relational operators/Who is less than 10/out/production/classes/
+/Topics/Declaring functions/Get last digit/out/
+/Topics/Declaring functions/Get last digit/out/production/classes/
+/Topics/Declaring functions/Right equation/out/
+/Topics/Declaring functions/Right equation/out/production/classes/
+/Topics/For loop and ranges/Check the order/out/
+/Topics/For loop and ranges/Check the order/out/production/classes/
+/Topics/For loop and ranges/The minimum value of N numbers/out/
+/Topics/For loop and ranges/The minimum value of N numbers/out/production/classes/
+/Topics/For loop and ranges/The product of numbers from a to b/out/
+/Topics/For loop and ranges/The product of numbers from a to b/out/production/classes/
+/Topics/For loop and ranges/The roots of equation/out/
+/Topics/For loop and ranges/The roots of equation/out/production/classes/
+/Topics/For loop and ranges/The sum of integers from a to b/out/
+/Topics/For loop and ranges/The sum of integers from a to b/out/production/classes/
+/Topics/If expression/Healthy sleep/out/
+/Topics/If expression/Healthy sleep/out/production/classes/
+/Topics/If expression/Knights/out/
+/Topics/If expression/Knights/out/production/classes/
+/Topics/If expression/Number dividers/out/
+/Topics/If expression/Number dividers/out/production/classes/
+/Topics/If expression/Positive, Negative or Zero/out/
+/Topics/If expression/Positive, Negative or Zero/out/production/classes/
+/Topics/Increment and decrement/Increasing and decreasing an integer/out/
+/Topics/Increment and decrement/Increasing and decreasing an integer/out/production/classes/
+/Topics/Increment and decrement/Theory/out/
+/Topics/Increment and decrement/Theory/out/production/classes/
+/Topics/Integers in action/Next even number/out/
+/Topics/Integers in action/Next even number/out/production/classes/
+/Topics/Integers in action/Reversing a number/out/
+/Topics/Integers in action/Reversing a number/out/production/classes/
+/Topics/Integers in action/The last digit of a number/out/
+/Topics/Integers in action/The last digit of a number/out/production/classes/
+/Topics/Loops  repeat statement/Counting positive numbers/out/
+/Topics/Loops  repeat statement/Counting positive numbers/out/production/classes/
+/Topics/Loops  repeat statement/Grades/out/
+/Topics/Loops  repeat statement/Grades/out/production/classes/
+/Topics/Loops  repeat statement/Repeat by value/out/
+/Topics/Loops  repeat statement/Repeat by value/out/production/classes/
+/Topics/Ranges/Between two numbers/out/
+/Topics/Ranges/Between two numbers/out/production/classes/
+/Topics/Ranges/Not in range/out/
+/Topics/Ranges/Not in range/out/production/classes/
+/Topics/Ranges/Working hours/out/
+/Topics/Ranges/Working hours/out/production/classes/
+/Topics/Reading data with readln/Reversed output/out/
+/Topics/Reading data with readln/Reversed output/out/production/classes/
+/Topics/Reading data with readln/Summing up space-separated integers from a string/out/
+/Topics/Reading data with readln/Summing up space-separated integers from a string/out/production/classes/
+/Topics/Standard input with Java Scanner/Printing each word in a new line/out/
+/Topics/Standard input with Java Scanner/Printing each word in a new line/out/production/classes/
+/Topics/Standard input with Java Scanner/Read and print/out/
+/Topics/Standard input with Java Scanner/Read and print/out/production/classes/
+/Topics/String basics/Creating an Application to Change User Input to Uppercase/out/
+/Topics/String basics/Creating an Application to Change User Input to Uppercase/out/production/classes/
+/Topics/String basics/I'm learning Kotlin/out/
+/Topics/String basics/I'm learning Kotlin/out/production/classes/
+/Topics/String basics/Reverse a user-input string/out/
+/Topics/String basics/Reverse a user-input string/out/production/classes/
+/Topics/String templates/Arithmetic expression/out/
+/Topics/String templates/Arithmetic expression/out/production/classes/
+/Topics/String templates/Print two numbers on the same line/out/
+/Topics/String templates/Print two numbers on the same line/out/production/classes/
+/Topics/String templates/Repetitions and templates/out/
+/Topics/String templates/Repetitions and templates/out/production/classes/
+/Topics/String templates/String and its Int/out/
+/Topics/String templates/String and its Int/out/production/classes/
+/Topics/Type conversion/Sum of Longs/out/
+/Topics/Type conversion/Sum of Longs/out/production/classes/
+/Topics/Type conversion/The superior forces of the Empire/out/
+/Topics/Type conversion/The superior forces of the Empire/out/production/classes/
+/Topics/While loops/Collatz conjecture/out/
+/Topics/While loops/Collatz conjecture/out/production/classes/
+/Topics/While loops/The first position of the largest element/out/
+/Topics/While loops/The first position of the largest element/out/production/classes/
+/Topics/While loops/The largest element/out/
+/Topics/While loops/The largest element/out/production/classes/
+/Topics/While loops/The length of the sequence/out/
+/Topics/While loops/The length of the sequence/out/production/classes/
+/Topics/While loops/The sequence 1 2 2 3 3 3/out/
+/Topics/While loops/The sequence 1 2 2 3 3 3/out/production/classes/
+/Topics/While loops/The sum of elements/out/
+/Topics/While loops/The sum of elements/out/production/classes/
+/Topics/Working with strings/Operations and truth/out/
+/Topics/Working with strings/Operations and truth/out/production/classes/
+/Topics/Working with strings/The information about a person/out/
+/Topics/Working with strings/The information about a person/out/production/classes/
+/Topics/Working with strings/The number of tens/out/
+/Topics/Working with strings/The number of tens/out/production/classes/
